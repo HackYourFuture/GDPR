@@ -1,4 +1,4 @@
-# GDPR
+# GDPR AT HACKYOURFUTURE
 
 At HackYourFuture we take your privacy seriously and will take as many precautions we can to protect your personal data. This privacy policy will explain how the HackYourFuture organisation uses the personal data we collect from you when you take part in the course. 
 
