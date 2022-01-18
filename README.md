@@ -20,9 +20,9 @@ HYF Community - The HackYourFuture community is everyone that has ever been invo
 
 Personal data - This is any information which relates to a person. It can include names, addresses, telephone numbers, email addresses, etc.
 
-Application data - This is specific data that helps the HackYourFuture core team with assessing an application of the student but does not identify the student. It can include immigration status, education level, household information, etc.
+Application data - This is specific data that helps the HackYourFuture core team with assessing an application of the student and is linked to the name of the student. It can include name, immigration status, education level, household information, etc.
 
-Performance tracking data - This is specific data that helps the HackYourFuture core team with assessing the performance of the student but does not identify the student. It can include grades, attendance information, strikes, etc.
+Performance tracking data - This is specific data that helps the HackYourFuture core team with assessing the performance of the student and is linked to the name of the student. It can include name, grades, attendance information, strikes, etc.
 
 Participation data - This is specific data that is the result of participating in the HackYourFuture course. It can include recordings of sessions, projects, etc.
 
