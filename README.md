@@ -58,8 +58,7 @@ All the application data is provided by the student during the application proce
 All the performance tracking data we collect is to track the performance of the student and will only be used for the purpose of deciding if the student is fulfilling the requirements of the course.
 
 All the participation data we collect is with the knowledge of the student and is used to aid the students and volunteers in going through the course. Recordings made during the course are a specific case and will be handled with the following rules:
-- The recordings will be uploaded to any video sharing website
-- The recordings will be unlisted if the video sharing website allows this
+- The recordings will be uploaded to any video sharing website. If there exists a sharing site where the video can be unlisted then that site will be used.
 - The link to the recording will be a publicly accessible link, but will only be shared within the HYF community unless explicitly informed beforehand.
 
 ## How do we store your data?
@@ -81,7 +80,7 @@ All participation data is accessible by the HYF community.
 ## How do we handle data in regards to communicating with investors and marketing purposes?
 HackYourFuture is required to provide performance metrics to our investors. To create these metrics the application and performance tracking data may be used (for example, to generate statistics). In all cases when communicating with investors, no personal data will be shared.
 
-For marketing purposes the same metrics may be used as shared with the investors, but for marketing HackYourFuture may also use any shared information of its former students (for example, their LinkedIn or Slack profile). Examples include, but not limited to sharing information on students who got jobs and creating infographics.
+For marketing purposes the same anonymous metrics may be used as shared with the investors. Additionally, for marketing HackYourFuture may also use any shared information of its former students (for example, their LinkedIn or Slack profile). Examples include, but not limited to sharing information on students who got jobs and creating infographics.
 
 ## What are your data protection rights?
 At HackYourFuture we adhere to the data protection rights in the following way. Every student is entitled to the following:
