@@ -69,7 +69,8 @@ All the participation data we collect is with the knowledge of the student and i
 The data is securely stored in the cloud using the following GDPR compliant storage applications:
 
 - Google cloud. See their GDPR guidelines here: https://cloud.google.com/privacy/gdpr
-- Typeform. See their privacy policy here: https://admin.typeform.com/to/dwk6gt 
+- Typeform. See their privacy policy here: https://admin.typeform.com/to/dwk6gt
+- DigitalOcean. See their GDPR guidlines here: https://www.digitalocean.com/legal/gdpr
 
 We delete your personal data 5 years after completion of the course, but can be made anonymous on request.
 
