@@ -45,7 +45,7 @@ Github is the place for students to publish all of their code and will be open t
 LinkedIn is the place for students to fill in information related to their professional history. It is required for every student to have a LinkedIn with information about them that HackYourFuture can share with potential employers.
 
 ### CV
-Every student will be required to create a CV with their personal information and including their professional history in Google Slides. A PDF copy of this document will be shared with potential employers by the core team.
+Every student will be required to create a CV with their personal information and including their professional history in Google Slides. The CV is sometimes shared with partners for conducting mockup interviews and giving feedback to students. A PDF copy of this document will be shared with potential employers by the core team.
 
 ## 3. Why and how we collect your data?
 
